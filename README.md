@@ -1,4 +1,5 @@
 ## Hi there 👋
+## I'm just getting started with learning how to use code. I'm excited to start.
 
 <!--
 **seb-coder-byte/seb-coder-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
